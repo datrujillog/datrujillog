@@ -92,24 +92,6 @@ func GetBio() Bio {
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
----
-
-⭐️ From [@datrujillog](https://github.com/datrujillog)
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m @datrujillog
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
 
 
 
@@ -121,6 +103,5 @@ func GetBio() Bio {
 
 
 
-datrujillog/datrujillog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
