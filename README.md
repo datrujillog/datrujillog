@@ -91,11 +91,29 @@ func GetBio() Bio {
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<h2 align="center">My projects :computer:</h2> 
+
+<h4 align="center">My latest projects :bookmark_tabs:</h4>
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnhellO&repo=github-readme-stats&theme=dark" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnhellO&repo=AnhellO&theme=dark" />
+  </a>
+</p>
+
+<h4 align="center">My most used languages :books:</h4>
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" />
+  </a>
+</p>
 
 
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="trujillo-diego" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/trujillo-diego?trk=profile-badge">Diego Trujillo</a></div>
               
 
 
