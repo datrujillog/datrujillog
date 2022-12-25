@@ -132,20 +132,20 @@ func GetBio() Bio {
   </a>
 </p>
 
-<h4 align="center">My contributions on StackOverflow :octocat:</h4>
+<!-- <h4 align="center">My contributions on StackOverflow :octocat:</h4>
 
 <p align="center">
   <a href="#">
     <img src="https://github-readme-stackoverflow.vercel.app/?userID=3525056&theme=dark" />
   </a>
-</p>
+</p> -->
 
 <h2 align="center">My social networks :mailbox:</h2>
 
 <h4 align="center">My social networks :mailbox:</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/trujillo-diego/">
+  <a href="https://www.linkedin.com/in/trujillo-diego/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Diego Trujillo  LinkedIn Profile" height="30" width="30">
   </a>
   
