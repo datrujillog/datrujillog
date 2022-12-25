@@ -1,4 +1,4 @@
-# Diego Trujilloo
+# Diego Trujillo
 
 <h2 align="center">About me</h2>
 
@@ -83,11 +83,11 @@ func GetBio() Bio {
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=5&theme=tokyonight&layout=compact" alt="datrujillog :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=datrujillog&show_icons=true&theme=synthwave" alt="datrujillog :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
@@ -109,8 +109,8 @@ func GetBio() Bio {
 <h4 align="center">My most used languages :books:</h4>
 
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" />
+  <a href="https://github.com/datrujillog">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datrujillog&langs_count=5&theme=tokyonight&layout=compact" />
   </a>
 </p>
 
