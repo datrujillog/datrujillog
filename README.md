@@ -104,7 +104,7 @@ func GetBio() Bio {
   </a>
 
   <My latest projects :bookmark_tabs: />
-  <a href="https://github.com/datrujillog/Alkemy-challenge">
+  <a href="https://github.com/datrujillog/App-Clima">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=App-Clima&theme=dark" />
   </a>
 
