@@ -96,13 +96,15 @@ func GetBio() Bio {
 <h4 align="center">My latest projects :bookmark_tabs:</h4>
 
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnhellO&repo=github-readme-stats&theme=dark" />
+  <a href="https://github.com/datrujillog/portafolio-Emulador">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=github-readme-stats&theme=dark" />
   </a>
   <a href="https://github.com/datrujillog/portafolio-Emulador">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=datrujillog&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=portafolio-Emulador&theme=dark" />
   </a>
 </p>
+
+
 
 <h4 align="center">My most used languages :books:</h4>
 
