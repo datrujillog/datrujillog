@@ -96,7 +96,7 @@ func GetBio() Bio {
 <h4 align="center">My latest projects :bookmark_tabs:</h4>
 
 <p align="center">
-  <a href="https://github.com/datrujillog/portafolio-Emulador">
+  <a href="https://github.com/datrujillog/pi-dogs-client">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=pi-dogs-client&theme=dark" />
   </a>
   <a href="https://github.com/datrujillog/portafolio-Emulador">
