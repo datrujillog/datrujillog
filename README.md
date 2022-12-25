@@ -72,7 +72,6 @@ func GetBio() Bio {
 <p align="center">
   <a href="">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="datrujillog :: StackShare" />
-    <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" alt="datrujillog :: StackShare" />
   </a>
 </p>
 
