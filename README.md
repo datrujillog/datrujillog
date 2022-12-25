@@ -102,6 +102,31 @@ func GetBio() Bio {
   <a href="https://github.com/datrujillog/portafolio-Emulador">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=portafolio-Emulador&theme=dark" />
   </a>
+
+  <My latest projects :bookmark_tabs: />
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=portafolio-Emulador&theme=dark" />
+  </a>
+
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=portafolio-Emulador&theme=dark" />
+  </a>
+
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=portafolio-Emulador&theme=dark" />
+  </a>
+
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=portafolio-Emulador&theme=dark" />
+  </a>
+
+
+
+
+  
+  
+
+
 </p>
 
 
