@@ -105,11 +105,11 @@ func GetBio() Bio {
 
   <My latest projects :bookmark_tabs: />
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=portafolio-Emulador&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=Alkemy-challenge&theme=dark" />
   </a>
 
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=portafolio-Emulador&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=Diego-Trujillo-Portafolio&theme=dark" />
   </a>
 
   <a href="#">
