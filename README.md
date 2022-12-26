@@ -112,8 +112,9 @@ func GetBio() Bio {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=Alkemy-challenge&theme=dark" />
   </a>
 
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=portafolio-Emulador&theme=dark" />
+  <a href="https://github.com/datrujillog/Ecommece_tzuzul_Trujillo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=Ecommece_tzuzul_Trujillo
+&theme=dark" />
   </a>
 
   <a href="#">
