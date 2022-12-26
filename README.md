@@ -109,7 +109,7 @@ func GetBio() Bio {
   </a>
 
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=portafolio-Emulador&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datrujillog&repo=Alkemy-challenge&theme=dark" />
   </a>
 
   <a href="#">
