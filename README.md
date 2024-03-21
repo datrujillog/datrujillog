@@ -3,31 +3,32 @@
 <h2 align="center">About me</h2>
 
 ```golang
-package main
+const express = require('express');
+const app = express();
 
-import (
-	"fmt"
-)
+app.get('/', (req, res) => {
+  res.send('Welcome to Diego Trujillo\'s professional biography!');
+});
 
-type Bio map[string]string
+app.get('/bio', (req, res) => {
+  const bio = {
+    name: 'Diego Trujillo',
+    profession: 'Software Developer',
+    specialization: 'Specialized in technologies like Node.js, Express, MongoDB, Docker, and Kubernetes',
+    experience: 'Over three years of experience in web development and microservices',
+    projects: 'Currently working on developing an online store for a pizzeria, using modern technologies like Node.js, Express, and MongoDB',
+    education: 'Software Engineering and technical certification in web development',
+    languages: 'Spanish (native), English (A2-B1 level)'
+  };
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+  res.json(bio);
+});
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "Full Stack developer oriented to the Backend with the ability to carry out web projects always keeping in mind that they are scalable and multiduralizable in order to build a team",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Node.Js, MongoDB,  (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal))",
-		"- 👯 I’m looking to collaborate on": "Node.js, MongoDB and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, Node.Js, MongoDB, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/datrujillog#you-can-reach-me-at-alien",
-	}
-}
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Express server active on port ${PORT}. Learn more about Diego Trujillo in /bio!`);
+});
+
 ```
 
 <h2 align="center">You can reach me at :alien:</h2>
